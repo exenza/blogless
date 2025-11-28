@@ -1,7 +1,7 @@
 <!-- {"fake:":"json"} !-->
 #Greatest and latest!
 
-Wow... look a post for <span class="blogless_title"></span>
+Wow... look a post for <span class="blogless_title"></span> website!
 
 All I have to do is to create a "latest.md" file in "/posts/" and... that's it!
 
